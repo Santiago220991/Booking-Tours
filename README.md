@@ -1,24 +1,59 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Booking Tours
 
-Things you may want to cover:
+> This project is a booking tours app in which you can create a tour, delete a tour, reserve a tour and see your reserved tours. This app was created with two repositories separating the Front-End and the Back-End. This is the repository for the back-end.
 
-* Ruby version
 
-* System dependencies
+## Built With
 
-* Configuration
+- Rails, Ruby, Devise, Cancancan, Rspec, SQL, Capybara.
 
-* Database creation
+## Setup Project
+- Clone repo by using (https://github.com/Santiago220991/Booking-Tours.git)
+- cd Booking-Tours
+- Install dependencies with `bundle install`.
 
-* Database initialization
+## Usage
+- Run `rails db:create` to create the database.
+- Run `rails server`
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Santiago Cárdenas**
 
-* Deployment instructions
+- GitHub: [@Santiago Cárdenas](https://github.com/Santiago220991)
+- LinkedIn: [Santiago Cárdenas](https://www.linkedin.com/in/alexandersantiagocardenas/)
+- Twitter: [@SanCardenas10](https://twitter.com/SanCardenas10)
 
-* ...
+
+👤 **Mar Bautista**
+
+- GitHub: [marilirulita](https://github.com/marilirulita)
+- LinkedIn: [mar bautista](https://www.linkedin.com/in/marbautista/)
+- Twitter: [@marylirulita](https://twitter.com/marylirulita)
+
+👤 **Mahmoud Makhlouf**
+
+- GitHub: [@devMahmoud](https://github.com/devMahmoud)
+- LinkedIn: [Mahmoud Makhlouf](https://www.linkedin.com/in/mahmoud-abdelkader-makhlouf/)
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Santiago220991/Booking-Tours/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Original design idea by Microverse.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
