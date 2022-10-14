@@ -26,7 +26,7 @@
 
 ## Built With
 
-- Rails, Ruby, Devise, Cancancan, Rspec, SQL, Capybara.
+- Rails, Ruby, JWT, Rspec, SQL.
 
 ## Prerequisites
 - Make sure Ruby is installed.
