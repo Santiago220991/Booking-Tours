@@ -62,3 +62,5 @@ gem 'rswag-ui'
 gem 'rspec-rails', '~> 5.1.2'
 
 gem 'rswag-specs'
+
+gem 'sprockets-rails', :require => 'sprockets/railtie'
