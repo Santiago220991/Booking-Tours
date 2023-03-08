@@ -6,7 +6,7 @@
 
 ## Front-End repository
 
-[Link to Fron-end Repository](https://github.com/Santiago220991/Booking-Tours-Front-End)
+[Link to Front-end Repository](https://github.com/Santiago220991/Booking-Tours-Front-End)
 
 ## Live Demo
 
